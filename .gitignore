@@ -1,3 +1,8 @@
-# Created by .ignore support plugin (hsz.mobi)
-/ffadventure_laravel.iml
-/.idea/
+/vendor
+/node_modules
+Homestead.yaml
+.env
+/bower_components
+/composer.lock
+*.iml
+/.idea

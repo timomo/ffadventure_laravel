@@ -1,0 +1,16 @@
+{
+  "name": "ffadventure_laravel",
+  "version": "0.0.0",
+  "homepage": "https://github.com/timomo/ffadventure_laravel",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3"
+  }
+}
